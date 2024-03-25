@@ -41,6 +41,7 @@ int main()
 	{
 		cout << "========================================" << endl;
 		cout << "MENU" << endl;
+		cout << "1. Penjumlahan" << endl;
 		
 	}
 }
